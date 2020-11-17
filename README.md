@@ -56,7 +56,7 @@ First: MPI rank size, which is also the amount of states <br>
 Second: World size for every state, like 6, so the world will be a 6*6 2-D matrix <br>
 Third: The amount of threads will be used for the test <br>
 Fourth: The amount of iterations will be used for the test <br> 
-Fifth: this is a flag indicates wether write the the last iteration of the world(which is also the result) to the outside files or not. 1 indicates write to outside files and others means not write <br>
+Fifth: This is a flag indicates wether write the the last iteration of the world(which is also the result) to the outside files or not. 1 indicates write to outside files and others means not write <br>
 ### 5.5 makefile
 Includes all the commands needed to compile all the files and execute the program in the bash environment. Type in make in the bash all these commands would been executed.
 ### 5.6 parallel project test case1.xlsx:
