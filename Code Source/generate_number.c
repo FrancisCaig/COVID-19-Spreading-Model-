@@ -2,9 +2,7 @@
 //  main.c
 //  generate number
 //
-//  Created by 巫劢达 on 5/4/20.
-//  Copyright © 2020 巫劢达. All rights reserved.
-//
+
 
 #include <stdio.h>
 #include <stdlib.h>
